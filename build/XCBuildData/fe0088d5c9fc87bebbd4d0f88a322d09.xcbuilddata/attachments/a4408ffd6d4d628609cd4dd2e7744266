@@ -1,0 +1,8 @@
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/AtomicProjectFileWriter.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/CodableProjectRepository.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/ProjectDocumentCodec.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/ProjectFileWriting.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/ProjectMigrator.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/ProjectRepositoryError.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/ProjectStoring.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePersistence/RecoverySnapshotStore.swift

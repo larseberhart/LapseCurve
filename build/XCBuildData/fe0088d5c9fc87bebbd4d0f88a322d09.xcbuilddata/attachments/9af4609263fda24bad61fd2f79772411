@@ -1,0 +1,11 @@
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/ExistingSidecarSnapshot.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/PlannedSidecarUpdate.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateCoordinator.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateError.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateFrameReport.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdatePlan.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdatePlanner.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateProgress.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateReceipt.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateReport.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateStatus.swift

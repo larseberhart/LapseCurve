@@ -1,0 +1,4 @@
+module LapseCurvePreview {
+header "LapseCurvePreview-Swift.h"
+export *
+}

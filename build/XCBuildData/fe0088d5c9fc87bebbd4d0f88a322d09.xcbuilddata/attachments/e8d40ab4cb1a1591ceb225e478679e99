@@ -1,0 +1,4 @@
+module LapseCurveAnalysis {
+header "LapseCurveAnalysis-Swift.h"
+export *
+}

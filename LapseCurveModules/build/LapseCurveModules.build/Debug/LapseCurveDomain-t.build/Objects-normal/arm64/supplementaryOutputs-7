@@ -1,0 +1,23 @@
+{
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/ProjectID.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectID.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectID.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectID.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectID.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectID.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/ProjectSchema.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSchema.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSchema.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSchema.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSchema.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSchema.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/ProjectSettings.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSettings.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSettings.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSettings.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSettings.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ProjectSettings.swiftdeps"
+  }
+}

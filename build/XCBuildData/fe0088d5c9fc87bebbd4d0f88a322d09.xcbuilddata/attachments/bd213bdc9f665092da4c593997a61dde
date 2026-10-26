@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests-primary.dia",
+    "emit-module-dependencies" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests-primary-emit-module.dia",
+    "pch" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests-primary.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveTests/LapseCurveTests.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.dia",
+    "index-unit-output-path" : "/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/build/LapseCurve.build/Debug/LapseCurveTests.build/Objects-normal/arm64/LapseCurveTests~partial.swiftmodule"
+  }
+}

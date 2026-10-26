@@ -1,0 +1,99 @@
+{
+  "" : {
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/LapseCurvePreview-primary.dia",
+    "emit-module-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/LapseCurvePreview-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/LapseCurvePreview-primary-emit-module.dia",
+    "pch" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/LapseCurvePreview-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/LapseCurvePreview-primary.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/FramePreviewProviding.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/FramePreviewProviding~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/ImageIOPreviewProvider.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/ImageIOPreviewProvider~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewCache.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCache~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewCacheKey.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewCacheKey~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewError.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewError~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewImage.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewImage~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewPrefetchResult.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewPrefetchResult~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewRequest.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewRequest~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurvePreview/PreviewSource.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurvePreview-t.build/Objects-normal/arm64/PreviewSource~partial.swiftmodule"
+  }
+}

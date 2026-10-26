@@ -1,0 +1,4 @@
+module LapseCurveExport {
+header "LapseCurveExport-Swift.h"
+export *
+}

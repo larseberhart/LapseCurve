@@ -1,0 +1,23 @@
+{
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/ImageFrame.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ImageFrame.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ImageFrame.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ImageFrame.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ImageFrame.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ImageFrame.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/IssueSeverity.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/IssueSeverity.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/IssueSeverity.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/IssueSeverity.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/IssueSeverity.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/IssueSeverity.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/Keyframe.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/Keyframe.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/Keyframe.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/Keyframe.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/Keyframe.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/Keyframe.swiftdeps"
+  }
+}

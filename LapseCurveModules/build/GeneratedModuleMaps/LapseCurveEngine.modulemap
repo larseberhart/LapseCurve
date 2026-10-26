@@ -1,0 +1,4 @@
+module LapseCurveEngine {
+header "LapseCurveEngine-Swift.h"
+export *
+}

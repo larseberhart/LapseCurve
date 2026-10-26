@@ -1,0 +1,14 @@
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/FrameMetadataSnapshot.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/KeyframeRatingDetector.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/KeyframeRatingResolution.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/MetadataReadStatus.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/RatingMetadataRead.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceMetadataReading.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceOrdering.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceScanError.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceScanOptions.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceScanResult.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceScanner.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SequenceScanning.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SidecarResolution.swift
+/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveSequence/SidecarResolver.swift

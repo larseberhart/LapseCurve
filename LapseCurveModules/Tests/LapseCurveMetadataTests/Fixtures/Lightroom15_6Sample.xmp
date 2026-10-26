@@ -1,0 +1,66 @@
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+   xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+   xmlns:crd="http://ns.adobe.com/camera-raw-defaults/1.0/"
+   xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+   xmlns:exif="http://ns.adobe.com/exif/1.0/"
+   xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+   xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+   xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   xmlns:custom="https://example.invalid/opaque/"
+   xmp:CreatorTool="Adobe Photoshop Lightroom Classic 15.6"
+   xmp:Rating="1"
+   xmp:MetadataDate="2026-10-14T22:27:09+02:00"
+   crd:Exposure2012="0.00"
+   crs:Version="18.7"
+   crs:ProcessVersion="15.4"
+   crs:WhiteBalance="As Shot"
+   crs:Temperature="5300"
+   crs:Tint="+22"
+   crs:Exposure2012="+1.05"
+   crs:Contrast2012="+100"
+   crs:Highlights2012="-61"
+   crs:Shadows2012="0"
+   crs:Whites2012="-68"
+   crs:Blacks2012="0"
+   crs:Texture="+8"
+   crs:Clarity2012="+4"
+   crs:Dehaze="0"
+   crs:Vibrance="0"
+   crs:Saturation="0"
+   crs:CameraProfile="Camera Vivid"
+   crs:HasSettings="True"
+   crs:AlreadyApplied="False"
+   tiff:Make="NIKON CORPORATION"
+   tiff:Model="NIKON Z f"
+   exif:ExposureTime="1/60"
+   exif:FNumber="4/1"
+   photoshop:SidecarForExtension="NEF"
+   xmpMM:PreservedFileName="sample.NEF"
+   dc:format="image/x-nikon-nef"
+   custom:PrivateAttribute="keep-me">
+   <!-- Preserve this packet comment. -->
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li stEvt:action="saved"
+      stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 15.6 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <custom:OpaquePayload>
+    <custom:Nested><![CDATA[opaque <payload> & text]]></custom:Nested>
+   </custom:OpaquePayload>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="w"?>

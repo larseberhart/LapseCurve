@@ -1,0 +1,23 @@
+{
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/CaptureMetadata.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureMetadata.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureMetadata.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureMetadata.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureMetadata.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureMetadata.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/CaptureTimeSource.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureTimeSource.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureTimeSource.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureTimeSource.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureTimeSource.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/CaptureTimeSource.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/DevelopmentParameter.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/DevelopmentParameter.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/DevelopmentParameter.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/DevelopmentParameter.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/DevelopmentParameter.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/DevelopmentParameter.swiftdeps"
+  }
+}

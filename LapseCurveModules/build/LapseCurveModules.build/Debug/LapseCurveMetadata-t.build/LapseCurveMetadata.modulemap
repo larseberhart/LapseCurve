@@ -1,0 +1,4 @@
+module LapseCurveMetadata {
+header "LapseCurveMetadata-Swift.h"
+export *
+}

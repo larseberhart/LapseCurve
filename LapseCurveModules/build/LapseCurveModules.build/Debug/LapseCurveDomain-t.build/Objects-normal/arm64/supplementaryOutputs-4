@@ -1,0 +1,23 @@
+{
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/ManualOverride.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ManualOverride.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ManualOverride.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ManualOverride.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ManualOverride.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/ManualOverride.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/MetadataStatus.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MetadataStatus.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MetadataStatus.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MetadataStatus.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MetadataStatus.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MetadataStatus.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveDomain/MissingValuePolicy.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MissingValuePolicy.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MissingValuePolicy.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MissingValuePolicy.dia",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MissingValuePolicy.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveDomain-t.build/Objects-normal/arm64/MissingValuePolicy.swiftdeps"
+  }
+}

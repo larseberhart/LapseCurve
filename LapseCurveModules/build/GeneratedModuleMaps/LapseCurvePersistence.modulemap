@@ -1,0 +1,4 @@
+module LapseCurvePersistence {
+header "LapseCurvePersistence-Swift.h"
+export *
+}

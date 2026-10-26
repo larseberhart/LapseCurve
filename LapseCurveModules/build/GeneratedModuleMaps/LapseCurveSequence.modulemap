@@ -1,0 +1,4 @@
+module LapseCurveSequence {
+header "LapseCurveSequence-Swift.h"
+export *
+}

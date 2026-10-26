@@ -1,0 +1,59 @@
+{
+  "" : {
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/LapseCurveAnalysis-primary.dia",
+    "emit-module-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/LapseCurveAnalysis-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/LapseCurveAnalysis-primary-emit-module.dia",
+    "pch" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/LapseCurveAnalysis-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/LapseCurveAnalysis-primary.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveAnalysis/CaptureExposureAnalyzer.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureAnalyzer~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveAnalysis/CaptureExposureCompensationEngine.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationEngine~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveAnalysis/CaptureExposureCompensationSettings.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCompensationSettings~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveAnalysis/CaptureExposureCurve.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/CaptureExposureCurve~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveAnalysis/ModuleTarget.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveAnalysis-t.build/Objects-normal/arm64/ModuleTarget~partial.swiftmodule"
+  }
+}

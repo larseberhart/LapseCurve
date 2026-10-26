@@ -1,0 +1,4 @@
+module LapseCurveDomain {
+header "LapseCurveDomain-Swift.h"
+export *
+}

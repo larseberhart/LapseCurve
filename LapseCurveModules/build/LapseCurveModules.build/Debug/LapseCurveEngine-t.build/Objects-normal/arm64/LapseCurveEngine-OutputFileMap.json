@@ -1,0 +1,69 @@
+{
+  "" : {
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LapseCurveEngine-primary.dia",
+    "emit-module-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LapseCurveEngine-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LapseCurveEngine-primary-emit-module.dia",
+    "pch" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LapseCurveEngine-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LapseCurveEngine-primary.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveEngine/HoldInterpolation.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/HoldInterpolation~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveEngine/InterpolationEngine.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationEngine~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveEngine/InterpolationError.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationError~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveEngine/InterpolationResult.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/InterpolationResult~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveEngine/LinearInterpolation.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/LinearInterpolation~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveEngine/SmoothstepInterpolation.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveEngine-t.build/Objects-normal/arm64/SmoothstepInterpolation~partial.swiftmodule"
+  }
+}

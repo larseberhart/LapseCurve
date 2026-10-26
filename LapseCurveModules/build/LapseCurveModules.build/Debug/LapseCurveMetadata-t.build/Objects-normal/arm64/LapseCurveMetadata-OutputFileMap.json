@@ -1,0 +1,89 @@
+{
+  "" : {
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/LapseCurveMetadata-primary.dia",
+    "emit-module-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/LapseCurveMetadata-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/LapseCurveMetadata-primary-emit-module.dia",
+    "pch" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/LapseCurveMetadata-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/LapseCurveMetadata-primary.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/ImageIOMetadataReader.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/ImageIOMetadataReader~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPFieldRegistry.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPFieldRegistry~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPPacket.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacket~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPPacketReader.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketReader~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPPacketWriter.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPPacketWriter~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPProperty.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPProperty~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPReadError.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPReadError~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveMetadata/XMPWriteError.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveMetadata-t.build/Objects-normal/arm64/XMPWriteError~partial.swiftmodule"
+  }
+}

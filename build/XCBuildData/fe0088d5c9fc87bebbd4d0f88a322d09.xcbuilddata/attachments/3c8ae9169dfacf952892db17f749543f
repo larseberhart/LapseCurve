@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/LapseCurveExport-primary.dia",
+    "emit-module-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/LapseCurveExport-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/LapseCurveExport-primary-emit-module.dia",
+    "pch" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/LapseCurveExport-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/LapseCurveExport-primary.swiftdeps"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/ExistingSidecarSnapshot.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/ExistingSidecarSnapshot~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/PlannedSidecarUpdate.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/PlannedSidecarUpdate~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateCoordinator.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateCoordinator~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateError.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateError~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateFrameReport.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateFrameReport~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdatePlan.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlan~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdatePlanner.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdatePlanner~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateProgress.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateProgress~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateReceipt.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReceipt~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateReport.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateReport~partial.swiftmodule"
+  },
+  "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/Sources/LapseCurveExport/SidecarUpdateStatus.swift" : {
+    "const-values" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.swiftconstvalues",
+    "dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.d",
+    "diagnostics" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.dia",
+    "index-unit-output-path" : "/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.o",
+    "llvm-bc" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.bc",
+    "object" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.o",
+    "swift-dependencies" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus.swiftdeps",
+    "swiftmodule" : "/Users/larseberhart/Coding/LapseCurve/LapseCurveModules/build/LapseCurveModules.build/Debug/LapseCurveExport-t.build/Objects-normal/arm64/SidecarUpdateStatus~partial.swiftmodule"
+  }
+}
